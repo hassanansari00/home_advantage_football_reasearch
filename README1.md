@@ -19,10 +19,10 @@ The raw dataset contains match-by-match results for the complete 23/24 Premier L
 
 ## 📈 Key Findings
 Through Exploratory Data Analysis (EDA) of the dataset, I analyzed three core metrics to prove the home advantage:
-
-1. **Offensive Output (Goals):** The data mathematically proves a **21.6% goal-scoring advantage** simply for playing at a home venue (averaging 1.80 home goals vs. 1.48 away goals per match).
-2. **Attacking Pressure (Shots on Target):** Home teams consistently generated a higher volume of shots on target per match, proving the goal advantage is driven by systematic attacking pressure rather than mere finishing luck.
-3. **Disciplinary Bias (Yellow Cards):** Away teams received a higher average of yellow cards per match, indicating that playing in front of an opposing crowd correlates with more aggressive defensive errors or stricter officiating.
+1. **Win-rate(%):** Home teams have higher Win-Rate than Away-Teams.Home-teams has a win rate of 46.05% percentage and Away-teams has a win rate of 32.37 % percentage. the draw rate is 21.58% percentage.
+2. **Offensive Output (Goals):** The data mathematically proves a **21.6% goal-scoring advantage** simply for playing at a home venue (averaging 1.80 home goals vs. 1.48 away goals per match).
+3. **Attacking Pressure (Shots on Target):** Home teams consistently generated a higher volume of shots on target per match, proving the goal advantage is driven by systematic attacking pressure rather than mere finishing luck.
+4. **Disciplinary Bias (Yellow Cards):** Away teams received a higher average of yellow cards per match, indicating that playing in front of an opposing crowd correlates with more aggressive defensive errors or stricter officiating.
 
 ## 🚀 How to Run the Project
 1. Clone this repository to your local machine.
